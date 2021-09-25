@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = 'podify-brotli'
-  s.version               = '1.0.9.1'
+  s.version               = '1.0.9'
   s.summary               = 'Google Brotli packaged as a CocoaPod'
   s.description           = <<-DESC
 Google Brotli packaged as a CocoaPod

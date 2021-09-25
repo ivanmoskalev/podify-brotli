@@ -1,12 +1,12 @@
 PODS:
-  - podify-brotli (0.1.0):
-    - podify-brotli/common (= 0.1.0)
-    - podify-brotli/dec (= 0.1.0)
-    - podify-brotli/enc (= 0.1.0)
-  - podify-brotli/common (0.1.0)
-  - podify-brotli/dec (0.1.0):
+  - "podify-brotli (1.0.9+1)":
+    - "podify-brotli/common (= 1.0.9+1)"
+    - "podify-brotli/dec (= 1.0.9+1)"
+    - "podify-brotli/enc (= 1.0.9+1)"
+  - "podify-brotli/common (1.0.9+1)"
+  - "podify-brotli/dec (1.0.9+1)":
     - podify-brotli/common
-  - podify-brotli/enc (0.1.0):
+  - "podify-brotli/enc (1.0.9+1)":
     - podify-brotli/common
 
 DEPENDENCIES:
@@ -17,7 +17,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  podify-brotli: 261e8eda17a152e821400d22c9b65114a4e0e31f
+  podify-brotli: 4481a119d1ed11c69da75856a0d92657dda8d893
 
 PODFILE CHECKSUM: e2d74f0873fd50ead946a2385ec58aed21b62a45
 
