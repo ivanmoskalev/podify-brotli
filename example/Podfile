@@ -1,0 +1,4 @@
+use_frameworks!
+target 'podify-brotli_Tests' do
+  pod 'podify-brotli', :path => '../'
+end
